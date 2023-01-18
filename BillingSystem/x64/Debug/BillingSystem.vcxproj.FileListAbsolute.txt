@@ -1,0 +1,5 @@
+D:\CPPProject\BillingSystem\x64\Debug\BillingSystem.vcxproj.AssemblyReference.cache
+D:\CPPProject\BillingSystem\x64\Debug\BillingSystem.vcxproj.SuggestedBindingRedirects.cache
+D:\CPPProject\BillingSystem\x64\Debug\BillingSystem.exe
+D:\CPPProject\BillingSystem\x64\Debug\BillingSystem.MyForm.resources
+D:\CPPProject\BillingSystem\x64\Debug\BillingSystem.vcxproj.GenerateResource.cache
